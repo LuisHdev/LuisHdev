@@ -18,17 +18,17 @@
 </h5>
 <br>
 <p align="center">
-  👋 Olá, eu sou o Luis, estudante de programação e desenvolvedor Front-end
+  👋 Hello, I'm Luis, programming student and Front-end developer
   <br>
   <br>
-  🔬 Atualmente estou no meu último ano de formação para Técnico de informática para internet na Etec de Praia Grande e estou fazendo o curso Fullstack JS da Onebitcode
+  🔬 I'm currently in my last year of training as a computer technician for the internet at Etec in Praia Grande and I'm taking the Fullstack JS course from Onebitcode
   <br>
-  💻 Além de amar programação, sou um entusiasta das tecnologias atuais. Estou sempre disposto a aprender e evoluir cada vez mais técnicamente e profissionalmente
+  💻 In addition to loving programming, I am an enthusiast of current technologies. I am always willing to learn and evolve more and more technically and professionally
   <br>
-  📚 Atualmente estou me aprofundando no Javascript e aprendendo a trabalhar com Sass
+  📚 At the moment I'm delving into Javascript and learning to work with Sass
   <br>
   <br>
-  📫 Entre em contato: <a href="mailto: luishenriquedev7@gmail.com">luishenriquedev7@gmail.com</a>
+  📫 Get in touch: <a href="mailto: luishenriquedev7@gmail.com">luishenriquedev7@gmail.com</a>
 </p>
 
 <hr>
