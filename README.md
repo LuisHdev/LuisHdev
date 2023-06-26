@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DFF16&width=435&lines=Hello+world%2C+I'm+Luis!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F71E&width=435&lines=Hello+world+I'm+Luis%2C+front-end+dev!">
   </a>
 </h1>
 
@@ -10,10 +10,9 @@
   <p align="center">
   <a href="https://skillicons.dev">
     <img href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=linkedin" />
+    <img href="https://www.instagram.com/luishdev_/" title="Instagram Profile" src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-<!--   <code><a href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></code> -->
-<!--   <code><a href="https://www.instagram.com/luishdev_/" title="Instagram Profile"><img width="22" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a></code> -->
 </h5>
 <br>
 <p align="center">
@@ -34,13 +33,20 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<p align="center">
+<h5 align="center">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass" />
+  </a>
+</p>
+</h5>
+<!-- <p align="center">
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-</p>
+</p> -->
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -61,6 +67,4 @@
     </a>
   </div>
   <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisHdev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
