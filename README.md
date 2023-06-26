@@ -2,13 +2,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DFF16&width=435&lines=Hello+world%2C+I'm+Luis!(https://git.io/typing-svg)">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DFF16&width=435&lines=Hello+world%2C+I'm+Luis!">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/luishdev_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/luishdev_/" title="Instagram Profile"><img width="22" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -23,7 +23,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: luishenriquedev7@gmail.com">luishenriquedev7@gmail.com</a>
+  📫 Entre em contato: <a href="mailto: luishenriquedev7@gmail.com">luishenriquedev7@gmail.com</a>
 </p>
 
 <hr>
