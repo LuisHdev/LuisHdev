@@ -12,7 +12,7 @@
     <img href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=linkedin "  />
   </a>
   <a href="https://www.instagram.com/luishdev_/">
-    <img href="https://www.instagram.com/luishdev_/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=instagram" />
+    <img margin-left= 10px href="https://www.instagram.com/luishdev_/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 </h5>
