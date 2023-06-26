@@ -9,7 +9,11 @@
 <h5 align="center">
   <p align="center">
   <a href="https://www.linkedin.com/in/luis-henrique-a5a086250/">
-    <img href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=linkedin,instagram" />
+    <img href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <p> </p>
+  <a href="https://www.instagram.com/luishdev_/">
+    <img href="https://www.instagram.com/luishdev_/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 </h5>
