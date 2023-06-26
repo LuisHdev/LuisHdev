@@ -9,7 +9,7 @@
 <h5 align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 <!--   <code><a href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></code> -->
