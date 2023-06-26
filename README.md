@@ -9,8 +9,7 @@
 <h5 align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=linkedin" />
-    <img href="https://www.instagram.com/luishdev_/" title="Instagram Profile" src="https://skillicons.dev/icons?i=instagram" />
+    <img href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=linkedin,instagram" />
   </a>
 </p>
 </h5>
@@ -25,7 +24,6 @@
   <br>
   📚 Atualmente estou me aprofundando no Javascript e aprendendo a trabalhar com Sass
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
   📫 Entre em contato: <a href="mailto: luishenriquedev7@gmail.com">luishenriquedev7@gmail.com</a>
 </p>
