@@ -7,8 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/luishdev_/" title="Instagram Profile"><img width="22" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile"><img width="22" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
+  <code><a href="https://www.instagram.com/luishdev_/" title="Instagram Profile"><img width="22" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a></code>
 </h5>
 <br>
 <p align="center">
