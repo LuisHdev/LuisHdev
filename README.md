@@ -21,7 +21,7 @@
   👋 Hello, I'm Luis, programming student and Front-end developer
   <br>
   <br>
-  🔬 I'm currently in my last year of training as a computer technician for the internet at Etec in Praia Grande and I'm taking the Fullstack JS course from Onebitcode
+  🔬 I'm also graduate as a computer technician for the internet at Etec in Praia Grande and I'm taking the Fullstack JS course from Onebitcode
   <br>
   💻 In addition to loving programming, I am an enthusiast of current technologies. I am always willing to learn and evolve more and more technically and professionally
   <br>
