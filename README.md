@@ -25,10 +25,12 @@
   <br>
   💻 In addition to loving programming, I am an enthusiast of current technologies. I am always willing to learn and evolve more and more technically and professionally
   <br>
-  📚 At the moment I'm delving into Javascript and learning to work with Sass
+  📚 At the moment I'm delving into Javascript and studying systems analysis and development at the college.
   <br>
   <br>
   📫 Get in touch: <a href="mailto: luishenriquedev7@gmail.com">luishenriquedev7@gmail.com</a>
+  <br>
+  📫 Check my CV: <a href="https://65c12d30e44c88008eb86a58--curriculo-luis-henrique.netlify.app">Luis Henrique CV</a>
 </p>
 
 <hr>
