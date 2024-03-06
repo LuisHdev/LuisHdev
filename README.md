@@ -38,7 +38,7 @@
 <h5 align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,sql,php" />
   </a>
 </p>
 </h5>
