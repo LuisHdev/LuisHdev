@@ -18,7 +18,7 @@
 </h5>
 <br>
 <p align="center">
-  👋 Hello, I'm Luis, programming student and Front-end developer
+  👋 Hello, I'm Luis, programming student and Fullstack developer
   <br>
   <br>
   🔬 I'm also graduate as a computer technician for the internet at Etec in Praia Grande and I'm doing the Fullstack JS course from Onebitcode
