@@ -27,7 +27,6 @@
   <br>
   📫 Get in touch: <a href="mailto: luishenriquedev7@gmail.com">luishenriquedev7@gmail.com</a>
   <br>
-  📫 Check my CV: <a href="https://curriculo-luis-henrique.netlify.app">Luis Henrique CV</a>
 </p>
 
 <hr>
