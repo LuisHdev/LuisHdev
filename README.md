@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F71E&width=435&lines=Hello+world+I'm+Luis%2C+fullstack+dev!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F71E&width=435&lines=Hello+world+I'm+Luis%2C+front-end+dev!">
   </a>
 </h1>
 
@@ -11,14 +11,11 @@
   <a href="https://www.linkedin.com/in/luis-henrique-a5a086250/">
     <img href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=linkedin, "  />
   </a>
-  <a href="https://www.instagram.com/luishdev_/">
-    <img href="https://www.instagram.com/luishdev_/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
 </h5>
 <br>
 <p align="center">
-  👋 Hello, I'm Luis, programming student and Fullstack developer
+  👋 Hello, I'm Luis, programming student and front-end developer
   <br>
   <br>
   🔬 I'm also graduate as a computer technician for the internet at Etec in Praia Grande and I'm doing the Fullstack JS course from Onebitcode
