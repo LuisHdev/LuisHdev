@@ -8,8 +8,8 @@
 
 <h5 align="center">
   <p align="center">
-  <a href="https://www.linkedin.com/in/luis-henrique-a5a086250/">
-    <img href="https://www.linkedin.com/in/luis-henrique-a5a086250/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=linkedin, "  />
+  <a align="center" href="https://www.linkedin.com/in/luis-henrique-a5a086250/">
+    <img href="https://www.linkedin.com/in/luis-henrique-de-queiróz-a5a086250/" title="LinkedIn Profile" src="https://skillicons.dev/icons?i=linkedin, "  />
   </a>
 </p>
 </h5>
